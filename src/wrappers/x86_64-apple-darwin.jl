@@ -2,12 +2,12 @@
 export libmseed
 
 JLLWrappers.@generate_wrapper_header("libmseed")
-JLLWrappers.@declare_library_product(libmseed, "@rpath/libmseed.3.0.9.dylib")
+JLLWrappers.@declare_library_product(libmseed, "@rpath/libmseed.3.0.10.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libmseed,
-        "lib/libmseed.3.0.9.dylib",
+        "lib/libmseed.3.0.10.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
