@@ -1,143 +1,143 @@
 [[libmseed]]
 arch = "aarch64"
-git-tree-sha1 = "1709773d3f15c421b56db18139d65ecd4d5ba658"
+git-tree-sha1 = "cf57ebeee2d6352f8acccf12f5c248637baf066b"
 os = "macos"
 
     [[libmseed.download]]
-    sha256 = "7e63b79aefdaed446069361ca5cf2a2d03ad09787729c4eb7b8173af9ece0091"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.aarch64-apple-darwin.tar.gz"
+    sha256 = "7838c722efd8319c5b51c573d44abba37004ec413a2a3f4843e9dd80f5b14320"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.aarch64-apple-darwin.tar.gz"
 [[libmseed]]
 arch = "aarch64"
-git-tree-sha1 = "f6f914d731506e83dc59ebc651a5d158eeaf7506"
+git-tree-sha1 = "bd3920704c7a8e587b9449372318cefa5fe5212d"
 libc = "glibc"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "7257b253bf47a0095afc29b5fc8fb4014c3e5fdb678af88ba0440ef25d6fe352"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.aarch64-linux-gnu.tar.gz"
+    sha256 = "784028e3df9e816e47126c98384b9a36194fe4837a06f153b227ee49cbb35746"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.aarch64-linux-gnu.tar.gz"
 [[libmseed]]
 arch = "aarch64"
-git-tree-sha1 = "80e1410227f985adcc94073aae26483a8da35286"
+git-tree-sha1 = "bde94152bfce7f410d8378d8e026841483f0735c"
 libc = "musl"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "9ada8d1f912f11a6f6d0309867edbc43df988de08e77a66474d038806220a235"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.aarch64-linux-musl.tar.gz"
+    sha256 = "7878d27cb0724e9c3c160c97985e3d6182b76ecdf11de0c8fc861269466f4d3f"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.aarch64-linux-musl.tar.gz"
 [[libmseed]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "706abe6403500158928bf118213a571496076115"
+git-tree-sha1 = "b72f6a2d86901ea273ecd2f1129ab539d7bb75dd"
 libc = "glibc"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "3f0c4b3b65b0084f48f04a6c839af3ffa1601fd42dbab6dbe2032c2fdc53e631"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "7b60dfa6ae7a79d0a6f3f797ed1ba581cc4f27379efe41cb3570ad7ee6599086"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.armv6l-linux-gnueabihf.tar.gz"
 [[libmseed]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "2ace22a3231b539549ef52979e41404fe7940bed"
+git-tree-sha1 = "816bb0ec4a2b5926ee0d36bbb66c821f48986cc8"
 libc = "musl"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "a3fd4a269fe085696f18e55b7de9facfbf901edabbf8bd09c7bbe1fa782520fc"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "01a842ae85a56f4bed2d40fe079797cc8ecbc05da306ee4ffc56f7eeebee93bf"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.armv6l-linux-musleabihf.tar.gz"
 [[libmseed]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "51fa66ede2153123b8a15433e6b48b1ba35d2c14"
+git-tree-sha1 = "b8eb1af73b92335850b1c4a9e365e988fe1de2e3"
 libc = "glibc"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "a836bd7dec1f14bd1b8ca3eb18d71f7c982f4d23b9c8b5daf7af4cab033fbe5f"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "bfb8e7d432b2efe8234e37202f31ed28ca74db72da8a76ab3eae61e333a01b48"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.armv7l-linux-gnueabihf.tar.gz"
 [[libmseed]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "be422df46008631f28700667e54b26a0534b1df8"
+git-tree-sha1 = "e911916ed2b5b08caf5128940892aa0fc503d225"
 libc = "musl"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "fc5e5adfe4b45d0e5d7ea7e6357e86fd74c301c23a9cdfab15344d4a1444c39f"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8ccb07a5303b815ab546f58fd40eb6a630db78e44b104673946d40cab5367542"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.armv7l-linux-musleabihf.tar.gz"
 [[libmseed]]
 arch = "i686"
-git-tree-sha1 = "a2f5a6df91fe8da5fa5f7bab7273131d8926940b"
+git-tree-sha1 = "c2177eb612cfddf317a216eb2c9d574494754f22"
 libc = "glibc"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "c0a2947c8c472813cc45782bae0c3e83cb45cfe9ccb4fcbc61ca5f13df9efe4c"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.i686-linux-gnu.tar.gz"
+    sha256 = "2d36cb23fd4130759b0f7f0da8377ddb624c9a38addb2aac0fe8028cc76753d3"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.i686-linux-gnu.tar.gz"
 [[libmseed]]
 arch = "i686"
-git-tree-sha1 = "3ccec73eb41f974705867e00c896693b6e00484b"
+git-tree-sha1 = "9170a0cf6a8b4ff6fddaa2b66607886870ed3055"
 libc = "musl"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "4b86ed2e7745c930d878321684a4396e009025fa0cad2ff62317ad4fbfefb2aa"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.i686-linux-musl.tar.gz"
+    sha256 = "ce214d3087d5d3e84eef9b7948d4d7a4216521db350e362e6ed991347b0da15b"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.i686-linux-musl.tar.gz"
 [[libmseed]]
 arch = "i686"
-git-tree-sha1 = "835258a821c52f0f5e11b348df4101657536e4c3"
+git-tree-sha1 = "43fb7cedaed668cbb8911a378a9dab92de102d3c"
 os = "windows"
 
     [[libmseed.download]]
-    sha256 = "bc0df394067ffd3218d95fe8dc8656aa698d4a9556882ef466a109c6a60993b4"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.i686-w64-mingw32.tar.gz"
+    sha256 = "8237aed902f6b8ae92e9cd18b7191020731e9f3cb2280c5bc4ae9a564b755df8"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.i686-w64-mingw32.tar.gz"
 [[libmseed]]
 arch = "powerpc64le"
-git-tree-sha1 = "b10b66196076a46120ba1568fc789f43cbeb517f"
+git-tree-sha1 = "d45705a6a056748ed79cadbc4ef352691d87f45e"
 libc = "glibc"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "8579f66cd9469bf8b30915741e643ec9baf93f5cbbf61cf24f212acb8a876386"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d002d51dbbe80c5f2ff1676c44410c7fc158e678ee78c2c2f8f6e880a278dec1"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.powerpc64le-linux-gnu.tar.gz"
 [[libmseed]]
 arch = "x86_64"
-git-tree-sha1 = "8b34fa3c4e84b8690879eb3d18fe0d60917db3b1"
+git-tree-sha1 = "c33521a852a0c2ead1a77cf682516fc441e11179"
 os = "macos"
 
     [[libmseed.download]]
-    sha256 = "7c17c6c0c9a891a88e7b5f079801492f214c266f8dae042be3fb17dbe15d36e7"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.x86_64-apple-darwin.tar.gz"
+    sha256 = "f76a8d37a24d2207473215fcfc6f012fe352b9aecdf3a82808705a7498fac2fa"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.x86_64-apple-darwin.tar.gz"
 [[libmseed]]
 arch = "x86_64"
-git-tree-sha1 = "78d5a22aa3c056c639811eb5068cbabd76afac81"
+git-tree-sha1 = "14a024f3da5b01d4ac13cc540b74d65f6282cb63"
 libc = "glibc"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "c186db9ec7fada052fde2258146c9410c3608bc751009c5b3b0f60c3cb9f7006"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.x86_64-linux-gnu.tar.gz"
+    sha256 = "482bb4d5191bb1303bb500fd3062fa07c9a8287ef4ee3a3668a0b8aa9400ebda"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.x86_64-linux-gnu.tar.gz"
 [[libmseed]]
 arch = "x86_64"
-git-tree-sha1 = "e0a91189c0c036aef95710cd1e96a0d2b28e1900"
+git-tree-sha1 = "3047a01b6346e3aa4b190f0b3462e63ba599cd95"
 libc = "musl"
 os = "linux"
 
     [[libmseed.download]]
-    sha256 = "31d9c856d67e89b0459e45686f61b8c637f75a20eea1273277c70c21ba2e85c5"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.x86_64-linux-musl.tar.gz"
+    sha256 = "1c87dcdb08395a0adfce1b2ce5379a8d0e528af186ad586b0a17236b44fe0e45"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.x86_64-linux-musl.tar.gz"
 [[libmseed]]
 arch = "x86_64"
-git-tree-sha1 = "c73c4cb1c5c6e74963229394b0ea5d5005ae3dce"
+git-tree-sha1 = "753451b805e87513811b965974c2f69e6a8ca867"
 os = "freebsd"
 
     [[libmseed.download]]
-    sha256 = "09bd5ee32c5ea026daf8407858d12baf52dc8b4f607dd94c069e989f3a2326e0"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7ca9fe585866665ba91d25e86351ed0d4ba0f88a2c762d6569d03007d03df7cb"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.x86_64-unknown-freebsd.tar.gz"
 [[libmseed]]
 arch = "x86_64"
-git-tree-sha1 = "288e92fcab42666296f189dc9c8d5342de638b66"
+git-tree-sha1 = "35fe3fc4026c4c046fc043369d90f2a978bc56fe"
 os = "windows"
 
     [[libmseed.download]]
-    sha256 = "23761058e4ba2c799f8a307466fb51647c1fe75e6f5e22e06148d8fd664ab68e"
-    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.17+0/libmseed.v3.0.17.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a407e7c0e01dcf8425f4026a1f506983b0df3fc01fa38318324a7bd0dec1766e"
+    url = "https://github.com/JuliaBinaryWrappers/libmseed_jll.jl/releases/download/libmseed-v3.0.18+0/libmseed.v3.0.18.x86_64-w64-mingw32.tar.gz"

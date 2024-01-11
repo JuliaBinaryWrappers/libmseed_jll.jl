@@ -1,6 +1,6 @@
 name = "libmseed_jll"
 uuid = "ccc2c699-b150-5417-88f2-a95a0d1581d9"
-version = "3.0.17+0"
+version = "3.0.18+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
